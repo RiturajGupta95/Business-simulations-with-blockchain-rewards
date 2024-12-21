@@ -1,4 +1,3 @@
-# Business-simulations-with-blockchain-rewards
 # Business Simulations with Blockchain Rewards
 
 ## Project Description
