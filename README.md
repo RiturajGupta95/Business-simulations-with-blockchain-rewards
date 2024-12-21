@@ -9,6 +9,8 @@
 This smart contract is deployed EDU Chain the Ethereum network. The contract address for the **Business Simulations with Blockchain Rewards** project is:
 
 ** grituraj953@gmail.com**
+![image](https://github.com/user-attachments/assets/1f2d3121-aa60-48f2-a8cb-d76749d2806c)
+
 
 
 
